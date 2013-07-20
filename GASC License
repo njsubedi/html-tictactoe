@@ -1,53 +1,33 @@
-<!DOCTYPE html>
-<head>
-<title>Nj Subedi- License</title>
-</head>
+The GASC License ( Updated version at http://njs.com.np/license.html )
 
-<body>
-<div style='margin: 0 auto; font-family: Tahoma; color: #333; font-size: 11pt;'>
-  <h2>The GASC License</h2>
-	<hr />
-	<h4>You are obliged to abide by the following list in order to use my code!<sup><small>[1]</small></sup></h4>
-	
-	<p>
-			<ol style="line-height: 2em;">
-				<li> <b>GASC</b> stands for <b>Given Away Source Code</b> </li>
-				<li>This license is only valid for the source code I have written by myself. <sup><small>[2]</small></sup>
-				<li>You are free to do the following with the source code containing this license -
-					<ul>
-						<li>Share the code with your family and friends <small> and tell them that you built this cool stuff</small>
-						</li><li>Learn something from the source code <small> and seem to be a geek, answering the questions on forums like <em>stack overflow.com.</em></small>
-						</li><li>Use the source code directly into your project <small> and not mention my name in <em>References</em> section.</small>
-						</li><li>Modify the source code <small> and forget the original source code.</small>
-						</li><li>Earn by selling or embedding <small> and
-							<s> keep it all</s> help needy people by donating a small portion of the earning.</small>
-						</li><li>Make a rocket and go to the moon <small>and never return back. ;)</small>
-						</li><li>Create a slide show, or print out <small>and take it to classroom to teach your students.</small>
-						</li><li>Or do whatever <span style="color: #EEE">the fuck</span> you can do <small> and never give me credit.</small></li>
-					</ul></li>
-				</li><li>The source code written by me may include libraries created/written/compiled by other authors. They will have their own licenses included.
-				</li><li>Since I don't drink beer, you may want to buy me a <b>Kitkat<sup><small>[3]</small></sup></b> in case you wanted to buy me a beer!
-				</li><li>This license may be modified at any date in future <small>and any time of the day of any time zone I'll be living in.</small>
-				</li><li>This license is not backward or forward compatible. Any older versions of the license are subject to be compared with the online version residing at <a href="http://njs.com.np/license.html">http://njs.com.np/license.html</a> and if there is a difference of one or more characters in the md5 hash of the alphanumeric characters present in the text of those two linceses, the online version existing in the URL, http://njs.com.np/license.html, will be considered valid, and the other invalid. <small>Why? Because I'm very paranoid.</small>
-				</li>
-				<li>Probably this is the last point- and currently it doesn't exist.</li>
-			</ol>
-	</p>
-	<hr />
-	<p>
-		<h4>You are not allowed to do the following with the source code that mentions this license -</h4>
-		<ol>
-			<li>Print the source code on an unhygenic paper and eat it without medical prescription.</li>
-			<li>Sue me for any evil things that my code did</li>
-			<li>Hold me responsible for any undocumented features / bugs in the source code</li>
-			<li>Tell me or my children that you wrote that code- because you didn't. <small>I don't care what you tell to anyone else.</small>
-		</ol>
-	</p>
-	<hr />
-	<p style="color: #999; font-weight: bold; font-size: 80%">
-		[1] Just kidding! Do whatever you want to do! I don't care.<br />
-		[2] You may not generalize this license to any other files which do not mention the existence of this license.<br />
-		[3] I like to eat Kitkat. I like many other things but never want be become their brand ambassador, including Kitkat.<br />
-	</p>
-</div>
-</body>
+You are obliged to abide by the following list in order to use my code![1]
+
+	1. GASC stands for Given Away Source Code
+	2. This license is only valid for the source code I have written by myself. [2]
+	3. You are free to do the following with the source code containing this license -
+		- Share the code with your family and friends and tell them that you built this cool stuff
+		- Learn something from the source code and seem to be a geek, answering the questions on forums like stack overflow.com.
+		- Use the source code directly into your project and not mention my name in References section.
+		- Modify the source code and forget the original source code.
+		- Earn by selling or embedding and keep it all help needy people by donating a small portion of the earning.
+		- Make a rocket and go to the moon and never return back. ;)
+		- Create a slide show, or print out and take it to classroom to teach your students.
+		- Or do whatever the fuck you can do and never give me credit.
+	4. The source code written by me may include libraries created/written/compiled by other authors. They will have their own licenses included.
+	5. Since I don't drink beer, you may want to buy me a Kitkat[3] in case you wanted to buy me a beer!
+	6. This license may be modified at any date in future and any time of the day of any time zone I'll be living in.
+	7. This license is not backward or forward compatible. Any older versions of the license are subject to be compared with the online version residing at http://njs.com.np/license.html and if there is a difference of one or more characters in the md5 hash of the alphanumeric characters present in the text of those two linceses, the online version existing in the URL, http://njs.com.np/license.html, will be considered valid, and the other invalid. Why? Because I'm very paranoid.
+	8. Probably this is the last point- and currently it doesn't exist.
+
+----------------------------------------------------------------------------------------------------------------
+You are not allowed to do the following with the source code that mentions this license -
+
+	1. Print the source code on an unhygenic paper and eat it without medical prescription.
+	2. Sue me for any evil things that my code did
+	3. Hold me responsible for any undocumented features / bugs in the source code
+	4. Tell me or my children that you wrote that code- because you didn't. I don't care what you tell to anyone else.
+
+-----------------------------------------------------------------------------------------------------------------
+[1] Just kidding! Do whatever you want to do! I don't care.
+[2] You may not generalize this license to any other files which do not mention the existence of this license.
+[3] I like to eat Kitkat. I like many other things but never want be become their brand ambassador, including Kitkat.
